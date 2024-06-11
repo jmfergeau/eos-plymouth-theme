@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=eos-plymouth-theme
+Description=original monochrome-tux-plymouth-theme by - Atom. Eos mod by JM Fergeau
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/eos-plymouth-theme
+ScriptFile=/usr/share/plymouth/themes/eos-plymouth-theme/eos-plymouth-theme.script
