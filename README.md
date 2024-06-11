@@ -4,6 +4,8 @@ Made for my personnal use. Shared because I'm a nice guy :D
 
 Original code by Atom. I just added Endeavour OS logo on it.
 
+![Preview](preview.jpg)
+
 ## Install
 
 1. clone the repo or download and unzip the archive.
